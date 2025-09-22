@@ -124,3 +124,43 @@ a{
     font-style: normal;
     font-weight: 400;
 }
+
+/* CTA SECTION */
+
+.cta-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 88px 0px;
+
+}
+.cta-card{
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    gap: 250px;
+    border-radius: 6px;
+    padding: 48px 100px;
+}
+
+.cta-main-text{
+    color: #F9FAF8;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.cta-secondary-text{
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.cta-card button{
+    background-color: #3882F6;
+    color: white;
+    padding: 0px 48px;
+    font-size: 16px;
+    border: solid 2px #E5E7EB;
+    border-radius: 6px;
+    font-weight: bold;
+}
