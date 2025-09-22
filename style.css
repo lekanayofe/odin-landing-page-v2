@@ -100,3 +100,27 @@ a{
     height: 150px;
     margin-bottom: 8px;
 }
+
+/* QUOTE SECTION */
+
+.quote-section{
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    padding: 88px 350px;
+
+}
+
+.quote{
+
+}
+
+.citation{
+    text-align: right;
+    font-style: normal;
+    font-weight: 400;
+}
